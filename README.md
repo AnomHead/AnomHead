@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnomHead
-- 👀 I’m interested in Competitive Programming and Video editing
+- 👀 I’m interested in Competitive Programming 
 - 🌱 I’m currently learning C++ and C progamming in higher depth and python
 - 💞️ I’m looking to collaborate on various projects related to C programming
 - 📫 How to reach me ...
