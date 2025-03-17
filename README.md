@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnomHead
 - 👀 I’m interested in Competitive Programming 
-- 🌱 I’m currently learning C++ and C progamming in higher depth and python
-- 💞️ I’m looking to collaborate on various projects related to C programming
+- 🌱 I’m currently learning C++ and C progamming in higher depth and Python
+- 💞️ I’m looking to collaborate on various projects related to C ,C++ and Python
 - 📫 How to reach me ...
 - 😄 Pronouns: Anom
 - ⚡ Fun fact: ...
